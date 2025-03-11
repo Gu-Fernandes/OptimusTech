@@ -210,3 +210,7 @@
     color: var(--fonte-cinza);
     margin-bottom: 1em;
 }
+
+.img__funcionario{
+    border-radius: 50%;
+}
